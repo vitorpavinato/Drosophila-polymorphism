@@ -11,6 +11,9 @@ This repository contains the steps and code starting from the functional SNPs.
 ## data
 Contains a .tsv file with only exonic SNPs for the four major D. melanogaster chromosomes.
 
+## notebook
+Contains a Jupyter notebook showing how to keep only synonymous and non-synonymous SNPs and associated gene information.
+
 ## src
 Contains the code used to:
 - Obtain the frequency (or density) of each codon pair;
